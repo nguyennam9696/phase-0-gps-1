@@ -3,4 +3,5 @@
 `This will be a code block.`
 [Google](www.google.com)
 
+**Master conflict**
 Small conflict
